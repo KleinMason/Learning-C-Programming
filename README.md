@@ -1,6 +1,9 @@
-# [C Programming Full Course](https://www.youtube.com/watch?v=87SH2Cn0s9A)
+# Learning C Programming
 
-54:47
+## Recourses
+
+- [C Programming Full Course (video)](https://www.youtube.com/watch?v=87SH2Cn0s9A)
+- [History and Spirit of C - Olve Maudal (video)](https://www.youtube.com/watch?v=xGVRF-Y--hI)
 
 ## GPT Learning Path
 
